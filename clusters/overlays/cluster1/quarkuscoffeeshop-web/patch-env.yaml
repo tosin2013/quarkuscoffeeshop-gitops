@@ -15,4 +15,6 @@ spec:
             - name: STREAM_URL
               value:  http://quarkuscoffeeshop-web-quarkuscoffeeshop-demo.apps.shop.quarkuscoffeeshop.io/dashboard/stream
             - name: CORS_ORIGINS
-              value: http://quarkuscoffeeshop-demo.apps.shop.quarkuscoffeeshop.io
+              value: http://quarkuscoffeeshop-demo.apps.ocp4.example.com
+            - name: STORE_ID
+              value: ATLANTA
