@@ -11,10 +11,10 @@ spec:
             - name: KAFKA_BOOTSTRAP_SERVERS
               value: cafe-cluster-kafka-bootstrap:9092
             - name: REST_URL
-              value: http://quarkuscoffeeshop-web-quarkuscoffeeshop-demo.apps.cluster-4e44.4e44.example.opentlc.com
+              value: http://quarkuscoffeeshop-web-quarkuscoffeeshop-demo.apps.cluster-b9fa.b9fa.example.opentlc.com
             - name: STREAM_URL
-              value:  http://quarkuscoffeeshop-web-quarkuscoffeeshop-demo.apps.cluster-4e44.4e44.example.opentlc.com/dashboard/stream
+              value:  http://quarkuscoffeeshop-web-quarkuscoffeeshop-demo.apps.cluster-b9fa.b9fa.example.opentlc.com/dashboard/stream
             - name: CORS_ORIGINS
-              value: http://quarkuscoffeeshop-demo.apps.ocp4.example.com
+              value: http://quarkuscoffeeshop-demo.apps.cluster-b9fa.b9fa.example.opentlc.com
             - name: STORE_ID
               value: CHARLOTTE
