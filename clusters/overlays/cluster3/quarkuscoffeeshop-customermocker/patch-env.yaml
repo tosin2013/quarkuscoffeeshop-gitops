@@ -9,4 +9,4 @@ spec:
         - name: quarkuscoffeeshop-customermocker
           env:
             - name: REST_URL
-              value: http://quarkuscoffeeshop-web-quarkuscoffeeshop-demo.apps.cluster-b9fa.b9fa.example.opentlc.com
+              value: http://quarkuscoffeeshop-web-quarkuscoffeeshop-demo.apps.cluster-a17d.sandbox1824.opentlc.com
