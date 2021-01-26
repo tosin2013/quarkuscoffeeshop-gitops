@@ -15,7 +15,7 @@ spec:
             - name: PGSQL_USER
               value: coffeshopadmin
             - name: PGSQL_PASS
-              value: '=Y@(kC@vbjy6rN1r]0zUCx@@'
+              value: 'La5x[e_/FX]-e-_rAwmbSM73'
             - name: LOG_SQL
               value: 'true'
             - name: QUARKUS_LOG_LEVEL
