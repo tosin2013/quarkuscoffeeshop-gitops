@@ -5,6 +5,7 @@ metadata:
   name: quarkuscoffeeshop-web
   labels:
     app: quarkuscoffeeshop-web
+    app.kubernetes.io/name: quarkus
 spec:
   replicas: 1
   selector:
