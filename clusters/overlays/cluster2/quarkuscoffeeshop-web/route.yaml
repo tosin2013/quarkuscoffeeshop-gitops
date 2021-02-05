@@ -4,7 +4,7 @@ metadata:
   name: quarkuscoffeeshop-web
   namespace: quarkuscoffeeshop-demo
 spec:
-  host: quarkuscoffeeshop-web-quarkuscoffeeshop-demo.apps.cluster-coffee1-2fc4.coffee1-2fc4.example.opentlc.com
+  host: quarkuscoffeeshop-web-quarkuscoffeeshop-demo.apps.cluster-prgx-7369.prgx-7369.example.opentlc.com
   port:
     targetPort: 8080-tcp
   to:
